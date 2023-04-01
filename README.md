@@ -24,7 +24,6 @@ I'm a passionate iOS Developer <img src="https://media.giphy.com/media/WUlplcMpO
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mint/mint-icon.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40"/>&nbsp;
