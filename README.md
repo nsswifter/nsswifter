@@ -4,7 +4,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm a passionate iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I'm Self-motivated individual seeking a challenging position where my technical, analytical, and problem-solving skills can add value.
+- 🔭 I'm Self-motivated individual with technical, analytical, and problem-solving skills.
 - 🧠 I love exploring technical content writing.
 - 😼 I’m looking to collaborate on International scale projects.
 - 🩵 You can reach me via e-mail: mehdi2003karami@gmail.com
