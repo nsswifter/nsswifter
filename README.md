@@ -30,7 +30,7 @@ A passionate **iOS Developer** who:
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width="40" height="40"/>&nbsp;
 
-## 🚀 Employment:
+## 👾 Playground:
 iCode, iCreate, iInnovate. 📱💻🌟
 
 ## 👨🏻‍💻 My Stats:
