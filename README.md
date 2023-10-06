@@ -7,7 +7,7 @@ A passionate **iOS Developer** who:
 
 - 🔭 is a self-motivated individual with technical, analytical, and problem-solving skills.
 - 🧠 loves exploring technical content writing.
-- 😼 is looking to collaborate on international-scale projects.r
+- 😼 is looking to collaborate on international-scale projects.
 
 🩵 You can reach me via: 
 - Scholarly Email: karami.mehdi.scholar@gmail.com
