@@ -13,24 +13,22 @@ A passionate **iOS Developer** who:
 - Scholarly Email: karami.mehdi.scholar@gmail.com
 - Work Correspondence Email: karami.mehdi.work@gmail.com
 
-## 🛠 &nbsp;Languages and Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
+## 🛠 &nbsp; Technologies:
+<img src="assets/swift.png" width="40" height="40"/>&nbsp;
+<img src="assets/swiftui.png" width="40" height="40"/>&nbsp;
+<img src="assets/swiftdata.png" width="40" height="40"/>&nbsp;
+<img src="assets/core_ml.png" width="40" height="40"/>&nbsp;
+<img src="assets/arkit.png" width="40" height="40"/>&nbsp;
+<img src="assets/realitykit.png" width="50" height="47"/>&nbsp;
+<img src="assets/spritekit.png" width="39" height="40"/>&nbsp;&nbsp;
+<img src="assets/scenekit.png" width="39" height="40"/>&nbsp;&nbsp;
+<img src="assets/widgetkit.png" width="43" height="43"/>&nbsp;
+<img src="assets/swift_charts.png" width="39" height="41"/>&nbsp;
+<img src="assets/mapkit.png" width="42" height="42"/>&nbsp;
+<img src="assets/shazamkit.png" width="43" height="43"/>&nbsp;&nbsp;
+<img src="assets/sirikit.png" width="38" height="42"/>&nbsp;&nbsp;
+<img src="assets/storekit.png" width="41" height="42"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width="40" height="40"/>&nbsp;
 
 ## 👾 Playground:
 iCode, iCreate, iInnovate. 📱💻🌟
