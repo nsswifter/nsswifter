@@ -9,11 +9,11 @@ A passionate **iOS Developer** who:
 - 🧠 loves exploring technical content writing.
 - 😼 is looking to collaborate on international-scale projects.
 
-🩵 You can reach me via: 
+💬 You can reach me via: 
 - Scholarly Email: karami.mehdi.scholar@gmail.com
 - Work Correspondence Email: karami.mehdi.work@gmail.com
 
-## 🛠 &nbsp; Technologies:
+## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
 <img src="assets/swiftui.png" width="40" height="40"/>&nbsp;
 <img src="assets/swiftdata.png" width="40" height="40"/>&nbsp;
@@ -30,10 +30,10 @@ A passionate **iOS Developer** who:
 <img src="assets/storekit.png" width="41" height="42"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
 
-## 👾 Playground:
+## 👨🏻‍💻 Crafting the Future of United Tech Brilliance:
 iCode, iCreate, iInnovate. 📱💻🌟
 
-## 👨🏻‍💻 My Stats:
+## 📊 My Stats:
 ![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsswifter&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsswifter&layout=compact&theme=vision-friendly-dark&title_color=EA538D&text_color=BCFCF6&bg_color=12111D" width="470">
