@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"></p>
 <p align="center"><a href="https://www.linkedin.com/in/mehdikarami"><img src="https://img.shields.io/badge/LinkedIn-blue?border-radius:px;&logo=linkedin" width="100"></a>
 
-<h2 align="center">Swiftly coding my way through the Apple ecosystem. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2 align="center">Swiftly coding my way through the Apple ecosystem</h2>
 
 A passionate **iOS Developer** who:
 
@@ -9,7 +9,7 @@ A passionate **iOS Developer** who:
 - 🧠 loves exploring technical content writing.
 - 😼 is looking to collaborate on international-scale projects.
 
-💬 You can reach me via: 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> You can reach me via: 
 - Scholarly Email: karami.mehdi.scholar@gmail.com
 - Work Correspondence Email: karami.mehdi.work@gmail.com
 
