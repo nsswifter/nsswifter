@@ -14,24 +14,23 @@ A passionate **iOS Developer** who:
 - Work Correspondence Email: karami.mehdi.work@gmail.com
 
 ## 👾 Technologies with which I unleash the Monster:
-<div align="center" style="display: flex;">
-  <img src="assets/swift.png" width="40" height="40"/>&nbsp;
-  <img src="assets/swiftui.png" width="40" height="40"/>&nbsp;
-  <img src="assets/swiftdata.png" width="40" height="40"/>&nbsp;
-  <img src="assets/core_ml.png" width="40" height="40"/>&nbsp;
-  <img src="assets/arkit.png" width="40" height="40"/>&nbsp;
-  <img src="assets/realitykit.png" width="50" height="47"/>&nbsp;
-  <img src="assets/spritekit.png" width="39" height="40"/>&nbsp;&nbsp;
-  <img src="assets/scenekit.png" width="39" height="40"/>&nbsp;&nbsp;
-  <img src="assets/widgetkit.png" width="43" height="43"/>&nbsp;
-  <img src="assets/swift_charts.png" width="39" height="41"/>&nbsp;
-  <img src="assets/mapkit.png" width="42" height="42"/>&nbsp;
-  <img src="assets/shazamkit.png" width="43" height="43"/>&nbsp;&nbsp;
-  <img src="assets/sirikit.png" width="38" height="42"/>&nbsp;&nbsp;
-  <img src="assets/storekit.png" width="41" height="42"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
-</div>
+<img src="assets/swift.png" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+<img src="assets/julia.png" height="35"/>
 
+<img src="assets/swiftui.png" width="40" height="40"/>&nbsp;
+<img src="assets/swiftdata.png" width="40" height="40"/>&nbsp;
+<img src="assets/core_ml.png" width="40" height="40"/>&nbsp;
+<img src="assets/arkit.png" width="40" height="40"/>&nbsp;
+<img src="assets/realitykit.png" width="50" height="47"/>&nbsp;
+<img src="assets/spritekit.png" width="39" height="40"/>&nbsp;&nbsp;
+<img src="assets/scenekit.png" width="39" height="40"/>&nbsp;&nbsp;
+<img src="assets/widgetkit.png" width="43" height="43"/>&nbsp;
+<img src="assets/swift_charts.png" width="39" height="41"/>&nbsp;
+<img src="assets/mapkit.png" width="42" height="42"/>&nbsp;
+<img src="assets/shazamkit.png" width="43" height="43"/>&nbsp;&nbsp;
+<img src="assets/sirikit.png" width="38" height="42"/>&nbsp;&nbsp;
+<img src="assets/storekit.png" width="41" height="42"/> &nbsp;
 
 ## 👨🏻‍💻 Crafting the Future of United Tech Brilliance:
 iCode, iCreate, iInnovate. 📱💻🌟
