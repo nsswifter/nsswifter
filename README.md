@@ -35,7 +35,7 @@ iCode, iCreate, iInnovate. 📱💻🌟
 
 ## 📊 My Stats:
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=nsswifter&show_icons=true&theme=holi" height="188">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsswifter&layout=compact&theme=vision-friendly-dark&title_color=71A9E8&text_color=D9E6FD&bg_color=030313&langs_count=8" height="188">
 <div/>
