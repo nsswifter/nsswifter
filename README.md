@@ -11,7 +11,7 @@ A passionate **iOS Developer** who:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> You can reach me via: 
 - [Scholarly Email](karami.mehdi.scholar@gmail.com)
-- Work Correspondence Email: karami.mehdi.work@gmail.com
+- [Work Correspondence Email](karami.mehdi.work@gmail.com)
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
