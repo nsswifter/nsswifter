@@ -10,7 +10,7 @@ A passionate **iOS Developer** who:
 - 😼 is looking to collaborate on international-scale projects.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> You can reach me via: 
-- Scholarly Email: karami.mehdi.scholar@gmail.com
+- [Scholarly Email](karami.mehdi.scholar@gmail.com)
 - Work Correspondence Email: karami.mehdi.work@gmail.com
 
 ## 👾 Technologies with which I unleash the Monster:
