@@ -3,7 +3,7 @@
 
 <h2 align="center">Swiftly coding my way through the Apple ecosystem</h2>
 
-A passionate **iOS Developer** who:
+A passionate **Researcher** and **iOS Developer** who:
 
 - 🔭 is a self-motivated individual with technical, analytical, and problem-solving skills.
 - 🧠 loves exploring technical content writing.
