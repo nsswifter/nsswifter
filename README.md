@@ -45,12 +45,12 @@ A passionate **Researcher** and **iOS Developer** who:
 <img src="assets/shazamkit.png" width="43" height="43"/>&nbsp;&nbsp;
 <img src="assets/sirikit.png" width="38" height="42"/>&nbsp;&nbsp;
 <img src="assets/storekit.png" width="41" height="42"/> &nbsp;
--->
 
 ## 👨🏻‍💻 Crafting the Future of United Tech Brilliance:
 iCode, iCreate, iInnovate. 📱💻🌟
+-->
 
-## 📊 My Stats:
+## 🔭 My Stats:
 <div align="center" style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=nsswifter&show_icons=true&theme=holi" height="180">
   &nbsp;&nbsp;
