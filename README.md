@@ -1,17 +1,30 @@
 <p align="center"><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/></p>
 <p align="center"><a href="https://www.linkedin.com/in/mehdikarami"><img src="https://img.shields.io/badge/LinkedIn-blue?border-radius:px;&logo=linkedin" width="100"/></a></p>
 
-<h2 align="center">Swiftly coding my way through the Apple ecosystem</h2>
+<h2 align="center">My personal sanctuary, where I let my thoughts run wild</h2>
+I'm a nerd by birth and a developer by choice.
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; Hmm, *developer?* I'm actually more of a **researcher**!
+
+I love computers, books, mathematics, physics, and of course, music. 👾
+
+&nbsp;
+
+By the way, 👋🏻 hey there!
+
+I’d love to hear from you too!
+
+If you’re interested in what I’m up to, feel free to reach out to me for a friendly chat via these emails:
+- [Scholarly Email](karami.mehdi.scholar@gmail.com)
+- [Work Correspondence Email](karami.mehdi.work@gmail.com)
+
+<!--
 A passionate **Researcher** and **iOS Developer** who:
 
 - 🔭 is a self-motivated individual with technical, analytical, and problem-solving skills.
 - 🧠 loves exploring technical content writing.
 - 😼 is looking to collaborate on international-scale projects.
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> You can reach me via: 
-- [Scholarly Email](karami.mehdi.scholar@gmail.com)
-- [Work Correspondence Email](karami.mehdi.work@gmail.com)
+-->
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
