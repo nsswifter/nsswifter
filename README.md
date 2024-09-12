@@ -28,7 +28,7 @@ A passionate **Researcher** and **iOS Developer** who:
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
-<img src="assets/python.png" width="45" height="45"/>&nbsp;
+<img src="assets/python.png" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
 <img src="assets/julia.png" height="35"/>
 
