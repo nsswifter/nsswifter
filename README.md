@@ -18,13 +18,7 @@ If you’re interested in what I’m up to, feel free to reach out to me for a f
 - [Scholarly Email](karami.mehdi.scholar@gmail.com)
 - [Work Correspondence Email](karami.mehdi.work@gmail.com)
 
-<!--
-A passionate **Researcher** and **iOS Developer** who:
-
-- 🔭 is a self-motivated individual with technical, analytical, and problem-solving skills.
-- 🧠 loves exploring technical content writing.
-- 😼 is looking to collaborate on international-scale projects.
--->
+Oh, and if you’d like to trace the neural pathways of my profession, check out my [CV](https://github.com/nsswifter/CV).
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
