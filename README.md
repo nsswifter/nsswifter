@@ -18,7 +18,7 @@ If you’re interested in what I’m up to, feel free to reach out to me for a f
 - [Scholarly Email](karami.mehdi.scholar@gmail.com)
 - [Work Correspondence Email](karami.mehdi.work@gmail.com)
 
-Oh, and if you’d like to trace the neural pathways of my profession, check out my [CV](https://github.com/nsswifter/CV).
+Oh, and if you’d like to trace the neural pathways of my profession, check out my [CV](https://nsswifter.github.io/CV/CV.pdf).
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
