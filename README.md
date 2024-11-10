@@ -2,7 +2,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/mehdikarami"><img src="https://img.shields.io/badge/LinkedIn-blue?border-radius:px;&logo=linkedin" width="100"/></a></p>
 
 <h2 align="center">My personal sanctuary, where I let my thoughts run wild</h2>
-A scientific mind by birth and a developer by choice.
+I'm a scientific mind by birth and a developer by choice.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; Hmm, *developer?* I'm actually more of a **researcher**!
 
